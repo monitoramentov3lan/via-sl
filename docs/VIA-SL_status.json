@@ -1,29 +1,8 @@
 {
   "garagem": "VIA-SL",
-  "online": 76,
-  "offline": 6,
-  "last_update": "2026-03-11T03:59:37.636602-03:00",
-  "panel_url": "https://monitoramentov3lan.github.io/via-sl/COMUNICAÇÕES_VIA-SL.html",
-  "tgs_history": [
-    {
-      "data": "10/03/2026",
-      "count": 120,
-      "filename": "TGs_20260310.txt"
-    },
-    {
-      "data": "09/03/2026",
-      "count": 137,
-      "filename": "TGs_20260309.txt"
-    },
-    {
-      "data": "08/03/2026",
-      "count": 43,
-      "filename": "TGs_20260308.txt"
-    },
-    {
-      "data": "07/03/2026",
-      "count": 80,
-      "filename": "TGs_20260307.txt"
-    }
-  ]
+  "online": 0,
+  "offline": "ERRO",
+  "last_update": "2026-03-11T05:07:25.103237-03:00",
+  "panel_url": "N/A",
+  "tgs_history": []
 }
